@@ -28,4 +28,4 @@ Cricket
 Cricket is a bat-and-ball game...
 Saved to cricket.txt ✅
 ```
-```
+
